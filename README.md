@@ -1,6 +1,4 @@
-# ¡Hola, soy Patricio! 👋
-
-Soy un entusiasta estudiante de Ingeniería en Informática con una sólida formación en desarrollo de software, bases de datos y aplicaciones móviles. ¡Bienvenido a mi perfil de GitHub!
+Soy un enstudiante de Ingeniería en Informática con una sólida formación el desarrollo de software, bases de datos y aplicaciones móviles.
 
 ## 🚀 Sobre Mí
 - 💼 Buscando la excelencia en mi formación profesional.
