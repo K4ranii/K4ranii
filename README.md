@@ -32,15 +32,6 @@ Soy un enstudiante de Ingeniería en Informática con una sólida formación el 
 
 ### Herramientas y SDK
 - **Transbank SDK**
-- 
-## 💻 Proyectos
-1. **Desarrollo de Aplicación Móvil**
-   - Creé una aplicación móvil usando Ionic y Angular enfocado al área de la educación, que lleve registro de profesores y estudiantes en un entorno académico.
-   - [Ver proyecto](#)
-
-3. **Proyectos de Desarrollo Web**
-   - Varios proyectos que muestran mis habilidades en desarrollo de páginas web, he trabajado con APIs, bases de datos, frameworks como django y he manejado la implementación de pasarelas de pago.
-   - [Ver proyecto](#)
 
 ## 📧 Contacto
 - **Email:** patriciomv04@gmail.com
