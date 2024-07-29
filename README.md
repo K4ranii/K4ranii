@@ -35,4 +35,4 @@ Soy un enstudiante de Ingeniería en Informática con una sólida formación el 
 
 ## 📧 Contacto
 - **Email:** patriciomv04@gmail.com
-- **LinkedIn:** [Conéctate conmigo](https://linkedin.com/in/patricioignacio)
+- **LinkedIn:** [Conéctate conmigo](https://linkedin.com/)
