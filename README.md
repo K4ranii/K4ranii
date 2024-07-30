@@ -20,7 +20,7 @@ Soy un enstudiante de Ingeniería en Informática con una sólida formación el 
 - **Ionic**
 
 ### Bases de Datos
-- **SQL**
+- **SQL PL/SQL**
 
 ### Desarrollo Web
 - **HTML**
@@ -30,9 +30,8 @@ Soy un enstudiante de Ingeniería en Informática con una sólida formación el 
 - **Selenium**
 - **Postman**
 
-### Herramientas y SDK
+### Herramientas y Plataformas Integradas
 - **Transbank SDK**
 
 ## 📧 Contacto
-- **Email:** patriciomv04@gmail.com
-- **LinkedIn:** [Conéctate conmigo](https://linkedin.com/)
+- **Email:** patriciomv05@gmail.com
